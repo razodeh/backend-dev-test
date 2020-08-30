@@ -1,0 +1,11 @@
+{
+  "Values": {
+    "FACTORY": "Smart Composites Bristol Site",
+    "ZONE": "Processing",
+    "CELL": "autoclave",
+    "MACHINE_GROUP": "autoclave",
+    "MACHINE": "autoclave 1",
+    "MACHINE_ID": "1",
+    "TIMESTAMP": "2020-01-21T09:32:34"
+  }
+}
